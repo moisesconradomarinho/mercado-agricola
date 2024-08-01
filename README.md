@@ -1,4 +1,4 @@
-# mercado-agricola
+# Mercado Agrícola
 Mercado da Produção Agrícola Familiar de Pequeno Porte. 
 
 Mercado Agrícola é uma plataforma de tecnologia inovadora dedicada a conectar produtores da agricultura familiar diretamente com consumidores finais. A empresa utiliza ferramentas digitais avançadas para facilitar a comercialização de produtos agrícolas frescos, promovendo a sustentabilidade e a qualidade. Nossa plataforma oferece uma experiência de compra transparente e conveniente, permitindo que os consumidores conheçam a origem dos produtos e os agricultores responsáveis por seu cultivo.
